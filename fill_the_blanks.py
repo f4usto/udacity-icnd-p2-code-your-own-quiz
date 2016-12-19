@@ -83,7 +83,8 @@ def play(quiz, max_attempts=4):
 
 
 def play_again():
-
+    """Prompts if the user wants to keep playing. Start the bootstrap proccess
+    again or returns a goodby message"""
     user_input = raw_input("\n" + "Would you like to play again ((y)es):").upper()
 
     if user_input == "YES" or user_input == "Y":

@@ -12,15 +12,15 @@ hard = {
              on April 22, 1500 under the sponsorship of the Kingdom of
              Portugal. From the 16th to the early 19th century, Brazil was a
              colony and apart of the __2__ Empire. The country expanded
-             south along the coast and west along the Amazon and other inland
+             south along the coast and west along the __3__ and other inland
              rivers from the original 15 donatary captaincy colonies
-             established on the northeas Atlantic coast east of the Tordesillas
+             established on the northeas Atlantic coast east of the __4__
              Line of 1494 (approximately the 46th meridian west) that divided
              the __2__ domain to the east from the Spanish domain to the
              west. The country's borders were only finalized in the early 20th
              century.""",
     'questions': ["__1__", "__2__", "__3__", "__4__"],
-    'answers': ["Cabral", "Portuguese"]
+    'answers': ["Cabral", "Portuguese", "Amazon", "Tordesillas"]
 }
 
 # Medium difficult quiz
